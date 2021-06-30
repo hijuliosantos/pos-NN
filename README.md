@@ -1,1 +1,1 @@
-# pos-NN
+# Trabalho final da aula de redes neurais
